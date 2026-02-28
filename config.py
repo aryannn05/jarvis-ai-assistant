@@ -1,4 +1,1 @@
-import os
 
-PICOVOICE_ACCESS_KEY = os.getenv("PICOVOICE_ACCESS_KEY")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
